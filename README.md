@@ -1,4 +1,4 @@
-## JavaScriptandDOM_UFOsightings
+## Searchable Database Dashboard with JavaScript
 
 ![nasa](static/images/nasa.jpg)
 
